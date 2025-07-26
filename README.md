@@ -1,8 +1,8 @@
 # 💼 Codergee – Web Developer & Designer Portfolio
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/e3d45612-12e4-456b-9b6e-xxxxxx/deploy-status)](https://app.netlify.com/sites/codergee-portfolio/deploys)
-[![GitHub license](https://img.shields.io/github/license/codergee/codergee-portfolio)](https://github.com/codergee/codergee-portfolio/blob/main/LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/codergee/codergee-portfolio?style=social)](https://github.com/codergee/codergee-portfolio)
+[![GitHub license](https://img.shields.io/github/license/jef912/codergee-portfolio)](https://github.com/jef912/codergee-portfolio/blob/main/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/jef912/codergee-portfolio?style=social)](https://github.com/jef912/codergee-portfolio)
+
 
 Welcome to the official portfolio and resume site of **Akwesi Otk (Codergee)** – a passionate Web Developer and Designer from Ghana 🇬🇭.
 
