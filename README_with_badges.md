@@ -4,7 +4,7 @@
 [![GitHub license](https://img.shields.io/github/license/codergee/codergee-portfolio)](https://github.com/codergee/codergee-portfolio/blob/main/LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/codergee/codergee-portfolio?style=social)](https://github.com/codergee/codergee-portfolio)
 
-Welcome to the official portfolio and resume site of **Akwesi Otk (Codergee)** – a passionate Web Developer and Designer from Ghana 🇬🇭.
+Welcome to the official portfolio and resume site of **Jeffery Otieku-Otk (Codergee)** – a passionate Web Developer and Designer from Accra- Ghana 🇬🇭.
 
 This project showcases my personal brand, resume, and services, built using modern, clean HTML5, CSS3, and JavaScript.
 
@@ -60,9 +60,9 @@ This project showcases my personal brand, resume, and services, built using mode
 
 ## 👨‍🎓 About Me
 
-Hi, I'm **Akwesi Otk**, also known as **Codergee**. I'm a creative web developer focused on delivering elegant websites and modern web experiences.
+Hi, I'm **Jeffery Otieku-Otk**, also known as **Codergee**. I'm a creative web developer focused on delivering elegant websites and modern web experiences.
 
-- 🌍 From: Ghana 🇬🇭
+- 🌍 From: Accra-Ghana 🇬🇭
 - 💼 Available for freelance/contract work
 - 💬 Reach me: [jeffotieku@gmail.com](mailto:jeffotieku@gmail.com)
 
@@ -74,7 +74,7 @@ Hi, I'm **Akwesi Otk**, also known as **Codergee**. I'm a creative web developer
 - 🐦 [Twitter](https://twitter.com/xtasy_jeff)
 - 📷 [Instagram](https://instagram.com/xtasyfive)
 - 💼 [LinkedIn](https://linkedin.com/in/codergee)
-- 💬 [WhatsApp Me](https://wa.me/233245678910?text=Hi%20Codergee%2C%20I%27d%20like%20to%20hire%20you)
+- 💬 [WhatsApp Me](https://wa.me/23323547446?text=Hi%20Codergee%2C%20I%27d%20like%20to%20hire%20you)
 
 ---
 
@@ -85,4 +85,4 @@ Feel free to fork and customize for your own portfolio.
 
 ---
 
-> Made with ❤️ by Codergee
+> Made with ❤️ by Codergee!
