@@ -19,7 +19,7 @@ This project showcases my personal brand, resume, and services, built using mode
 
 ## 🖼️ Screenshot Preview
 
-![Portfolio Preview](https://your-screenshot-url.com/screenshot.jpg)
+![Portfolio Preview](foto3.jpg)
 
 ---
 
