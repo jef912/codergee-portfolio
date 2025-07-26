@@ -38,12 +38,12 @@ This project showcases my personal brand, resume, and services, built using mode
 
 ## 🛠️ Built With
 
-- **HTML5** – Semantic markup
-- **CSS3** – Responsive styling with custom variables
-- **JavaScript** – Theme toggle, form handling, WhatsApp integration
-- **EmailJS** – Send messages directly from form
-- **Font Awesome** – Icons
-- **Animate.css** – Button fade-in and bounce effects
+- HTML5
+- CSS3 (custom properties, animations, responsive layout)
+- JavaScript (for dynamic behavior like light/dark mode)
+- [Font Awesome](https://fontawesome.com/)
+- [Google Fonts](https://fonts.google.com/)
+- Deployed via GitHub Pages
 
 ---
 
