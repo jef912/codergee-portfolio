@@ -12,14 +12,14 @@ This project showcases my personal brand, resume, and services, built using mode
 
 ## 🌟 Live Demo
 
-🔗 [View Portfolio Website](https://your-username.github.io/your-repo-name/)  
+🔗 [View Portfolio Website](https://jef912.github.io/codergee-portfolio/)  
 📄 [Download Resume (PDF)](Resume_Codergee.pdf)
 
 ---
 
 ## 🖼️ Screenshot Preview
 
-![Portfolio Preview](https://your-screenshot-url.com/screenshot.jpg)
+![Portfolio Preview](url('assets/foto1,jpg'))
 
 ---
 
